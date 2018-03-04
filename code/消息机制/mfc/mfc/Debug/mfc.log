@@ -1,0 +1,27 @@
+﻿生成启动时间为 2018/2/27 0:58:28。
+     1>项目“c:\Users\12515\documents\visual studio 2010\Projects\mfc\mfc\mfc.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\mfc.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mfc.cpp
+         mfc.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\12515\documents\visual studio 2010\Projects\mfc\Debug\mfc.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\mfc.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\12515\documents\visual studio 2010\Projects\mfc\Debug\mfc.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\12515\documents\visual studio 2010\Projects\mfc\Debug\mfc.lib" /MACHINE:X86 Debug\mfc.exe.embed.manifest.res
+         Debug\mfc.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mfc.exe.embed.manifest" /manifest Debug\mfc.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         mfc.vcxproj -> c:\users\12515\documents\visual studio 2010\Projects\mfc\Debug\mfc.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\mfc.unsuccessfulbuild”。
+         正在对“Debug\mfc.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“c:\Users\12515\documents\visual studio 2010\Projects\mfc\mfc\mfc.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.24
